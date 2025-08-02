@@ -1,54 +1,56 @@
-🚀 Quantumult X 配置 & 免费节点 & Apple ID 共享教程
-🎯 Quantumult X 全平台支持，一键配置，轻松翻墙！
-🎯 免费机场 & 免费梯子，每12小时更新，长期维护！
-🎯 Quantumult X 配置使用简易教程，让新手也能轻松上手！
-
-📌 👉 SSRouter 官网 | 高速稳定的科学上网解决方案！
-📌 👉 免费节点每日更新，支持 Quantumult X / Shadowrocket / Clash / V2ray
-
-⚡ Quantumult X 配置教程（iOS）
-Quantumult X 是一款强大的 iOS 科学上网工具，支持 SSR/V2ray/Trojan/Clash 订阅，适用于iPhone/iPad/Mac，配合SSRouter机场，可以获得极致流畅的科学上网体验！
-<a href="http://ssrouter.com" rel="nofollow">点击订阅</a>
 
 
-🔹 Quantumult X 配置步骤：
-1️⃣ 下载 Quantumult X（需美区 Apple ID，可使用共享 Apple ID）。
-2️⃣ 获取 SSRouter 订阅 👉 点击前往（提供免费 & 付费高速节点）。
-3️⃣ 导入订阅：在 Quantumult X 中，点击“配置”，粘贴订阅链接，保存即可。
-4️⃣ 开启代理，选择合适的节点，畅游全球网络！
+🚀 Quantumult X Configuration & Free Nodes & Apple ID Sharing Tutorial  
+🎯 Quantumult X supports all platforms, one-click setup, easy internet freedom!  
+🎯 Free airports & free nodes, updated every 12 hours, maintained long-term!  
+🎯 Simple Quantumult X setup tutorial, making it easy for beginners to get started!
 
-💡 Quantumult X 支持规则分流，可自由选择国内/国外流量分流，更加智能！
+📌 👉 SSRouter Official Website | High-speed, stable internet freedom solutions!  
+📌 👉 Free nodes updated daily, supporting Quantumult X / Shadowrocket / Clash / V2ray
 
-🎁 共享 Apple ID（用于下载 Quantumult X）
-⚠️ 注意：请勿绑定 iCloud，以免影响个人数据！
+⚡ Quantumult X Setup Tutorial (iOS)  
+Quantumult X is a powerful iOS internet freedom tool, supporting SSR/V2ray/Trojan/Clash subscriptions, suitable for iPhone/iPad/Mac. Paired with SSRouter airports, it delivers an extremely smooth internet freedom experience!  
+<a href="http://ssrouter.com" rel="nofollow">Click to Subscribe</a>
 
-📌 共享 Apple ID（用于下载 Quantumult X / Shadowrocket / Stash）
-📌 适用于 iPhone / iPad 设备，无需额外注册！
-📌 如果下载后无法使用，请尝试其他 ID 或直接购买
-<a href="http://ssrouter.com" rel="nofollow">点击获取</a>
-💡 获取共享 Apple ID & 配置教程
+🔹 Quantumult X Setup Steps:  
+1️⃣ Download Quantumult X (requires a US Apple ID; shared Apple ID available).  
+2️⃣ Get SSRouter subscription 👉 Click to access (offers free & premium high-speed nodes).  
+3️⃣ Import subscription: In Quantumult X, click “Settings,” paste the subscription link, and save.  
+4️⃣ Enable proxy, select a suitable node, and surf the global internet!
 
-🔥 免费节点 & 机场推荐（每12小时更新）
-🚀 免费机场 & 付费机场，每12小时更新一次，支持 Quantumult X / Clash / Shadowrocket
-🚀 支持 Netflix、Disney+、HBO Max、Hulu 等流媒体解锁
-🚀 香港 / 台湾 / 日本 / 新加坡 / 美国 等全球高速节点
-<a href="http://ssrouter.com" rel="nofollow">点击订阅</a>
-📌 免费获取 Quantumult X 节点 & 订阅
+💡 Quantumult X supports rule-based traffic splitting, allowing free selection of domestic/international traffic routing, making it smarter!
 
-📢 其他科学上网工具推荐
-📌 Windows：Clash .NET、Clash-verge-rev、Mihomo-Party
-📌 Mac：Quantumult X、ClashX、Mihomo-Party
-📌 iOS（iPhone/iPad）：Shadowrocket（小火箭）、Quantumult X、Stash、Loon
-📌 Android：ClashMeta for Android、V2rayNG、Surfboard
-📌 路由器：OpenClash（OpenWRT）、Passwall
-<a href="http://ssrouter.com" rel="nofollow">点击订阅</a>
-💡 所有工具均支持 SSR / V2ray / Trojan / Clash 订阅，一键导入，简单易用！
+🎁 Shared Apple ID (for downloading Quantumult X)  
+⚠️ Note: Do not bind to iCloud to avoid affecting personal data!
 
-📌 立即获取免费节点 & SSRouter机场推荐！
-🚀 SSRouter 官网 | 高速稳定，支持 Quantumult X 订阅！
-🚀 每日更新免费节点，畅游全球网络！
+📌 Shared Apple ID (for downloading Quantumult X / Shadowrocket / Stash)  
+📌 Suitable for iPhone / iPad devices, no additional registration required!  
+📌 If it doesn’t work after downloading, try another ID or purchase directly  
+<a href="http://ssrouter.com" rel="nofollow">Click to Get</a>  
+💡 Get Shared Apple ID & Setup Tutorial
 
-💎 快来试试吧，让你的 Quantumult X 轻松起飞！ 🚀🌍
+🔥 Free Nodes & Airport Recommendations (Updated Every 12 Hours)  
+🚀 Free & premium airports, updated every 12 hours, supporting Quantumult X / Clash / Shadowrocket  
+🚀 Supports unlocking streaming platforms like Netflix, Disney+, HBO Max, Hulu, and more  
+🚀 High-speed nodes in Hong Kong, Taiwan, Japan, Singapore, USA, and globally  
+<a href="http://ssrouter.com" rel="nofollow">Click to Subscribe</a>  
+📌 Get Free Quantumult X Nodes & Subscriptions
 
-这样优化后，内容更清晰，吸引力更强，强调 SSRouter 的优势，同时让用户更容易获取免费节点 & 配置 Quantumult X，你觉得如何？😃
-<a href="http://ssrouter.com" rel="nofollow">点击订阅</a>
+📢 Other Recommended Internet Freedom Tools  
+📌 Windows: Clash .NET, Clash-verge-rev, Mihomo-Party  
+📌 Mac: Quantumult X, ClashX, Mihomo-Party  
+📌 iOS (iPhone/iPad): Shadowrocket, Quantumult X, Stash, Loon  
+📌 Android: ClashMeta for Android, V2rayNG, Surfboard  
+📌 Router: OpenClash (OpenWRT), Passwall  
+<a href="http://ssrouter.com" rel="nofollow">Click to Subscribe</a>  
+💡 All tools support SSR / V2ray / Trojan / Clash subscriptions, one-click import, easy to use!
+
+📌 Get Free Nodes & SSRouter Airport Recommendations Now!  
+🚀 SSRouter Official Website | High-speed, stable, supports Quantumult X subscriptions!  
+🚀 Daily updated free nodes, surf the global internet!
+
+💎 Try it now and let your Quantumult X take off easily! 🚀🌍
+
+
+<a href="http://ssrouter.com" rel="nofollow">Click to Subscribe</a>
+
